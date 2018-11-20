@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "kue": "^0.11.6",
-    "kue-scheduler": "^0.7.4"
+    "kue-scheduler": "^0.7.4",
+    "moment": "^2.22.2"
   }
 }

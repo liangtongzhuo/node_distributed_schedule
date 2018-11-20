@@ -1,5 +1,6 @@
 "use strict";
 
+// 配置redis
 var options = {
   prefix: "w",
   skipConfig: false,
